@@ -2,7 +2,7 @@
   "visualization": {
     "id": "konectaSvgLogo",
     "label": "Logo SVG Konecta",
-    "url": "https://URL_A_REMPLACER/logo-konecta.js",
+    "url": "https://cdn.jsdelivr.net/gh/slaiucef/konecta-visu/logo-konecta.js",
     "icon": "show_chart",
     "support": {
       "dimensions": true,
